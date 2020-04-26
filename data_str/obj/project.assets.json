@@ -4641,9 +4641,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\enajo\\source\\repos\\training_data\\data_str\\data_tests.csproj",
-      "projectName": "data_tests",
-      "projectPath": "C:\\Users\\enajo\\source\\repos\\training_data\\data_str\\data_tests.csproj",
+      "projectUniqueName": "C:\\Users\\enajo\\source\\repos\\training_data\\data_str\\data_str.csproj",
+      "projectName": "data_str",
+      "projectPath": "C:\\Users\\enajo\\source\\repos\\training_data\\data_str\\data_str.csproj",
       "packagesPath": "C:\\Users\\enajo\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\enajo\\source\\repos\\training_data\\data_str\\obj\\",
       "projectStyle": "PackageReference",
