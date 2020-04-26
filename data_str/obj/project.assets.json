@@ -1225,6 +1225,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
+      },
+      "data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/data.dll": {}
+        }
       }
     }
   },
@@ -4610,12 +4620,18 @@
         "system.xml.xpath.xmldocument.4.3.0.nupkg.sha512",
         "system.xml.xpath.xmldocument.nuspec"
       ]
+    },
+    "data/1.0.0": {
+      "type": "project",
+      "path": "../data/data.csproj",
+      "msbuildProject": "../data/data.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
       "Microsoft.NET.Test.Sdk >= 16.4.0",
       "NUnit3TestAdapter >= 3.15.1",
+      "data >= 1.0.0",
       "nunit >= 3.12.0"
     ]
   },
@@ -4625,9 +4641,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\enajo\\source\\repos\\training_data\\data_str\\data_str.csproj",
-      "projectName": "data_str",
-      "projectPath": "C:\\Users\\enajo\\source\\repos\\training_data\\data_str\\data_str.csproj",
+      "projectUniqueName": "C:\\Users\\enajo\\source\\repos\\training_data\\data_str\\data_tests.csproj",
+      "projectName": "data_tests",
+      "projectPath": "C:\\Users\\enajo\\source\\repos\\training_data\\data_str\\data_tests.csproj",
       "packagesPath": "C:\\Users\\enajo\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\enajo\\source\\repos\\training_data\\data_str\\obj\\",
       "projectStyle": "PackageReference",
@@ -4644,7 +4660,11 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\enajo\\source\\repos\\training_data\\data\\data.csproj": {
+              "projectPath": "C:\\Users\\enajo\\source\\repos\\training_data\\data\\data.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
