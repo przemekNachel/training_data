@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\enajo\\source\\repos\\training_data\\data_str\\data_str.csproj": {}
+    "C:\\Users\\enajo\\source\\repos\\training_data_tdd\\data_str\\data_str.csproj": {}
   },
   "projects": {
-    "C:\\Users\\enajo\\source\\repos\\training_data\\data\\data.csproj": {
+    "C:\\Users\\enajo\\source\\repos\\training_data_tdd\\data\\data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\enajo\\source\\repos\\training_data\\data\\data.csproj",
+        "projectUniqueName": "C:\\Users\\enajo\\source\\repos\\training_data_tdd\\data\\data.csproj",
         "projectName": "data",
-        "projectPath": "C:\\Users\\enajo\\source\\repos\\training_data\\data\\data.csproj",
+        "projectPath": "C:\\Users\\enajo\\source\\repos\\training_data_tdd\\data\\data.csproj",
         "packagesPath": "C:\\Users\\enajo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\enajo\\source\\repos\\training_data\\data\\obj\\",
+        "outputPath": "C:\\Users\\enajo\\source\\repos\\training_data_tdd\\data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\enajo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -56,14 +56,14 @@
         }
       }
     },
-    "C:\\Users\\enajo\\source\\repos\\training_data\\data_str\\data_str.csproj": {
+    "C:\\Users\\enajo\\source\\repos\\training_data_tdd\\data_str\\data_str.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\enajo\\source\\repos\\training_data\\data_str\\data_str.csproj",
+        "projectUniqueName": "C:\\Users\\enajo\\source\\repos\\training_data_tdd\\data_str\\data_str.csproj",
         "projectName": "data_str",
-        "projectPath": "C:\\Users\\enajo\\source\\repos\\training_data\\data_str\\data_str.csproj",
+        "projectPath": "C:\\Users\\enajo\\source\\repos\\training_data_tdd\\data_str\\data_str.csproj",
         "packagesPath": "C:\\Users\\enajo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\enajo\\source\\repos\\training_data\\data_str\\obj\\",
+        "outputPath": "C:\\Users\\enajo\\source\\repos\\training_data_tdd\\data_str\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\enajo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -79,8 +79,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\enajo\\source\\repos\\training_data\\data\\data.csproj": {
-                "projectPath": "C:\\Users\\enajo\\source\\repos\\training_data\\data\\data.csproj"
+              "C:\\Users\\enajo\\source\\repos\\training_data_tdd\\data\\data.csproj": {
+                "projectPath": "C:\\Users\\enajo\\source\\repos\\training_data_tdd\\data\\data.csproj"
               }
             }
           }

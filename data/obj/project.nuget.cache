@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "apbQzTqNMBsE4zEr0nQiEusosdsiEjQpVHywFqweQMoLhQFEniIvgifYXJIR/D4fBFMpOnzys4qejc0iOCywaA==",
+  "dgSpecHash": "JED59g/OBykKb1ulzdkSLWVRWKhYYCpSrGFJ8ZCzIqK9Tu22BLAn729AeVsKZ3NE+CzvLGG2zgqMB7sSRT//ng==",
   "success": true,
-  "projectFilePath": "C:\\Users\\enajo\\source\\repos\\training_data\\data\\data.csproj",
+  "projectFilePath": "C:\\Users\\enajo\\source\\repos\\training_data_tdd\\data\\data.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

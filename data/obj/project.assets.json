@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\enajo\\source\\repos\\training_data\\data\\data.csproj",
+      "projectUniqueName": "C:\\Users\\enajo\\source\\repos\\training_data_tdd\\data\\data.csproj",
       "projectName": "data",
-      "projectPath": "C:\\Users\\enajo\\source\\repos\\training_data\\data\\data.csproj",
+      "projectPath": "C:\\Users\\enajo\\source\\repos\\training_data_tdd\\data\\data.csproj",
       "packagesPath": "C:\\Users\\enajo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\enajo\\source\\repos\\training_data\\data\\obj\\",
+      "outputPath": "C:\\Users\\enajo\\source\\repos\\training_data_tdd\\data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\enajo\\AppData\\Roaming\\NuGet\\NuGet.Config",
