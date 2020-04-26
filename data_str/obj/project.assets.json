@@ -4625,11 +4625,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\enajo\\source\\repos\\data_str\\data_str\\data_str.csproj",
+      "projectUniqueName": "C:\\Users\\enajo\\source\\repos\\training_data\\data_str\\data_str.csproj",
       "projectName": "data_str",
-      "projectPath": "C:\\Users\\enajo\\source\\repos\\data_str\\data_str\\data_str.csproj",
+      "projectPath": "C:\\Users\\enajo\\source\\repos\\training_data\\data_str\\data_str.csproj",
       "packagesPath": "C:\\Users\\enajo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\enajo\\source\\repos\\data_str\\data_str\\obj\\",
+      "outputPath": "C:\\Users\\enajo\\source\\repos\\training_data\\data_str\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\enajo\\AppData\\Roaming\\NuGet\\NuGet.Config",
